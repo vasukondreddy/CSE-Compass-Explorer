@@ -125,7 +125,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 ### Environment Configuration
 
 Update Supabase Authentication settings:
-- Site URL: Your production domain
+- Site URL: [Your production domain](https://cse-compass-explorer.vercel.app/)
 - Redirect URLs: Add your production URLs
 
 ## Contributing
